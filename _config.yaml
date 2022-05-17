@@ -1,9 +1,9 @@
 # Profile section
 profile:
-  first_name: Rodolfo
-  last_name: Ferro
-  picture: https://cdn.glitch.com/88028f3b-2a37-4207-9b84-e56ad97a9d3d%2Frodo_2021.png?v=1622471953248   # Hosted picture
-  # picture: static/img/rodo_2021.png  # Local picture
+  first_name: Edie
+  last_name: Correia Santana
+  #picture: https://cdn.glitch.com/88028f3b-2a37-4207-9b84-e56ad97a9d3d%2Frodo_2021.png?v=1622471953248   # Hosted picture
+  picture: static/img/profile.png  # Local picture
   contact:
     address_one: León, Guanajuato
     address_two:
@@ -23,7 +23,7 @@ profile:
 social:
   website: https://rodolfoferro.xyz
   github: https://github.com/RodolfoFerro/
-  twitter: https://twitter.com/FerroRodolfo/
+  #twitter: https://twitter.com/FerroRodolfo/
   linkedin: https://www.linkedin.com/in/rodolfoferro/
   facebook:
   dev: https://dev.to/rodolfoferro
